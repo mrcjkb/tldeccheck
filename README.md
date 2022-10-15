@@ -1,4 +1,12 @@
 # tldeccheck
+
+> [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+>
+> __NOTE:__
+>
+> Since I no longer use Matlab, I cannot actively maintain this model.
+> I will gladly accept PRs, as long as I can review them without Matlab.
+
 Matlab function: Checks the TickLabels of all axes objects of the current figure and adjusts the amount of decimals so that they are uniform.
 
 Syntax:        TLDECCHECK              - adjusts the decimals
